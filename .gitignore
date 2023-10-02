@@ -1,1 +1,9 @@
 token
+test.py
+.gitignore
+Scheme.mdj
+sample.txt
+venv
+.vscode
+.env
+__pycache__
